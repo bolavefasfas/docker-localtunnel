@@ -1,4 +1,4 @@
-FROM ubuntu:14.10
+FROM ubuntu:latest
 MAINTAINER Matt Sparks <ms@quadpoint.org>
 
 RUN apt-get update && \
